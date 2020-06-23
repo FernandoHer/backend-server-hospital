@@ -1,8 +1,7 @@
-module.exports.SEED = '@este-es@-un-seed-dificil';
+module.exports.SEED = "este-es-un-seed-dificil";
 
-
-// ===================================
-//  Google
-// ===================================
-
-module.exports.CLIENT_ID = '2731522619-jbi2s0sp0mlt3jn85g4ecs4hflvjf99v.apps.googleusercontent.com';
+// Google
+//module.exports.GOOGLE_CLIENT_ID = '442737206823-dilej5tevnrv61sovd7bocf5qeafmjs3.apps.googleusercontent.com';
+module.exports.GOOGLE_CLIENT_ID =
+    "2731522619-ae3521ot51vt98pvamt4fuhvjbjt229f.apps.googleusercontent.com";
+module.exports.GOOGLE_SECRET = "6cWrrFy8KchLLrYmg70esp7t";
